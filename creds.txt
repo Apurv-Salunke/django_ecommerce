@@ -1,0 +1,4 @@
+[superuser]
+username=admin
+password=Abcd@1234
+email=admin@djackets.com
